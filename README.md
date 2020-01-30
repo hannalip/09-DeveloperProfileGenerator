@@ -1,7 +1,7 @@
 # 09-HW-Developer-Profile-Generator
 
 * [Screenshot] ![Resume](./ScreenShot.png)
-* [`Git Hub](https://github.com/hannalip/09-HW-Developer-Profile-Generator)
+* [`Git Hub](https://github.com/hannalip/09-DeveloperProfileGenerator)
 * [`JavaScript`](generateHTML.js)
 * [`JavaScript`](index.js)
 * [`JSON`](package.json)
